@@ -8,7 +8,9 @@ add a + b;
 
 subtract()
 
-subtract a - b;
+subtract a - b; 
+
+tested ok
 
 
 
