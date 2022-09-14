@@ -8,6 +8,8 @@ add a + b;
 
 subtract()
 
+subtract a - b;
+
 
 
 divide()
